@@ -1,9 +1,9 @@
 # Scheduling Maneuvers for the Restoration of Electric Power Distribution Networks
 
 > **Contributors:** André L. Maravilha<sup>1,3</sup>, Fillipe Goulart<sup>1,3</sup>, Eduardo G. Carrano<sup>2,3</sup>, Felipe Campelo<sup>2,3</sup>  
-> <sup>1</sup> *Graduate Program in Electrical Engineering, Universidade Federal de Minas Gerais (PPGEE, UFMG)*  
-> <sup>2</sup> *Dept. Electrical Engineering, Universidade Federal de Minas Gerais (UFMG)*  
-> <sup>3</sup> *Operations Research and Complex Systems Lab., Universidade Federal de Minas Gerais (ORCS Lab, UFMG)*
+> <sup>1</sup> *Graduate Program in Electrical Engineering, Universidade Federal de Minas Gerais ([PPGEE](https://www.ppgee.ufmg.br/), [UFMG](https://www.ufmg.br/))*  
+> <sup>2</sup> *Dept. Electrical Engineering, Universidade Federal de Minas Gerais ([DEE](http://www.dee.ufmg.br/), [UFMG](https://www.ufmg.br/))*  
+> <sup>3</sup> *Operations Research and Complex Systems Lab., Universidade Federal de Minas Gerais ([ORCS Lab](http://orcslab.ppgee.ufmg.br/), [UFMG](https://www.ufmg.br/))*
 
 
 ## 1. About
