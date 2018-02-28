@@ -151,11 +151,9 @@ std::tuple<orcs::Schedule, double> orcs::ILS::perturb(const Problem& problem, co
     }
 
     std::shuffle(chain.begin(), chain.end(), generator);
-    int n_moves = generator() % (chain.size() + 1);
 
     // Perform a chain of reassignment moves
-    //for (int idx = 0; idx < chain.size(); ++idx) {
-    for (int idx = 0; idx < n_moves; ++idx) {
+    for (int idx = 0; idx < chain.size(); ++idx) {
 
         // Get the pair of teams to perform the reassignemnt move
         int l_origin = chain[idx];
