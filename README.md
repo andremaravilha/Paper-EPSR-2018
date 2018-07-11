@@ -8,7 +8,7 @@
 
 ## 1. About
 
-This repository contains the source code of the manuscript entitled "Scheduling maneuvers for the restoration of electric power distribution networks: formulation and heuristics", written by André L. Maravilha, Fillipe Goulart, Eduardo G. Carrano and Felipe Campelo, currently submitted to the *Electric Power Systems Research* ([EPSR](https://www.journals.elsevier.com/electric-power-systems-research)).
+This repository contains the source code of the manuscript entitled "Scheduling maneuvers for the restoration of electric power distribution networks: formulation and heuristics", written by André L. Maravilha, Fillipe Goulart, Eduardo G. Carrano and Felipe Campelo, published in 2018 in the *Electric Power Systems Research* ([EPSR](https://www.journals.elsevier.com/electric-power-systems-research)) journal (DOI: [10.1016/j.epsr.2018.06.020](https://doi.org/10.1016/j.epsr.2018.06.020)).
 
 All methods were coded in C++ (version C++17). The project was developed using [CLion](https://www.jetbrains.com/clion/) (version 2017.2.3) with [CMake](https://cmake.org/) (version 3.8) and  GNU Compiller Collection ([GCC](https://gcc.gnu.org/), version 6.3.0) on a Linux machine. The content of this repository is available under the MIT license. The mixed integer programming (MIP) formulations were solved with [Gurobi](http://www.gurobi.com/) (version 7.5.1).
 
